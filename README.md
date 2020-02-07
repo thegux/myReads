@@ -3,8 +3,8 @@
 Welcome to MyReads Project of Udacity Course from Gabriel Bezerra!
 
 ## To install the project and launch it, you'll need to:
-		1. npm install
-    	2. npm start
+		1.npm install
+    	2.npm start
 
 ## How the code works:
 		1.The main component fetches the books from the API.
